@@ -1,1 +1,4 @@
-# alinhamento_site
+# alinhamento do site
+
+- HTML
+- CSS
